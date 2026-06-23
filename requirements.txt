@@ -1,0 +1,6 @@
+networkx
+matplotlib
+openai
+pandas
+chromadb
+python-dotenv
